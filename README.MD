@@ -5,7 +5,7 @@ This uses a fork of MCPConfig that is updated to Gradle 7 to decompile minecraft
 - JDK 16
 - 1.17 installed
 - The git commandline tool
-- Eclipse (optional)
+- Eclipse 2021.03 or newer
 
 You can read MCPConfig's license here https://github.com/MinecraftForge/MCPConfig/blob/master/LICENSE
 
