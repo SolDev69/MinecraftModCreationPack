@@ -14,4 +14,4 @@ You can read MCPConfig's license here https://github.com/MinecraftForge/MCPConfi
 2) Run install.bat and wait for the cmd prompt to close
 3) Your done! Just import the folder (the one with batch files) as an eclipse project to start coding!
 
-Note: Do not redistribute any mods u make using this. That is against TOS and copyright. I will be working on a way to reobfuscate in the reobfuscation testing branch (its the only other one as of right now).
+### Note: Do not redistribute any mods u make using this. That is against TOS and copyright. I will be working on a way to reobfuscate in the reobfuscation testing branch (its the only other one as of right now).
